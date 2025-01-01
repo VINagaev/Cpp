@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\HomeWork3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B52920-316B-44E3-ADF0-B7CD9B396C99}|HomeWork3\\HomeWork3.vcxproj|C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\HomeWork3\\HomeWork3\\HomeWork3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44B52920-316B-44E3-ADF0-B7CD9B396C99}|HomeWork3\\HomeWork3.vcxproj|solutionrelative:HomeWork3\\HomeWork3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeWork3.cpp",
+              "DocumentMoniker": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\HomeWork3\\HomeWork3\\HomeWork3.cpp",
+              "RelativeDocumentMoniker": "HomeWork3\\HomeWork3.cpp",
+              "ToolTip": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\HomeWork3\\HomeWork3\\HomeWork3.cpp",
+              "RelativeToolTip": "HomeWork3\\HomeWork3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-01T10:38:08.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
