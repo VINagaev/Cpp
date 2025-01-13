@@ -3,7 +3,7 @@
 
 using namespace std;
 HANDLE hConsole4 = GetStdHandle(STD_OUTPUT_HANDLE);
-int main()
+int main_4()
 {
 	system("chcp 1251");
 	SetConsoleTextAttribute(hConsole4, 10);

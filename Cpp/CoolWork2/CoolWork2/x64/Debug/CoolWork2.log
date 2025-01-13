@@ -1,2 +1,5 @@
-﻿  CoolWork5.cpp
+﻿  CoolWork3_1.cpp
+C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\CoolWork2\CoolWork3_1.cpp(24,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\CoolWork2\CoolWork3_1.cpp(24,9): warning C4101: b: неиспользованная локальная переменная
+C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\CoolWork2\CoolWork3_1.cpp(24,12): warning C4101: temp: неиспользованная локальная переменная
   CoolWork2.vcxproj -> C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\x64\Debug\CoolWork2.exe

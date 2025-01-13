@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CoolWork2.cpp" />
     <ClCompile Include="CoolWork3.cpp" />
+    <ClCompile Include="CoolWork3_1.cpp" />
     <ClCompile Include="CoolWork4.cpp" />
     <ClCompile Include="CoolWork5.cpp" />
   </ItemGroup>
