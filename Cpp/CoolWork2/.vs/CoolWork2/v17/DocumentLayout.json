@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0420\u041F\u041E\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\",
+  "WorkspaceRootPath": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8540A50-F287-4BF4-A0C5-8C8A5436C75F}|CoolWork2\\CoolWork2.vcxproj|C:\\Users\\\u0420\u041F\u041E\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A8540A50-F287-4BF4-A0C5-8C8A5436C75F}|CoolWork2\\CoolWork2.vcxproj|C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A8540A50-F287-4BF4-A0C5-8C8A5436C75F}|CoolWork2\\CoolWork2.vcxproj|solutionrelative:CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0420\u041F\u041E\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
+              "DocumentMoniker": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
               "RelativeDocumentMoniker": "CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
-              "ToolTip": "C:\\Users\\\u0420\u041F\u041E\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
+              "ToolTip": "C:\\Users\\VENOEN\\Documents\\GitHub\\Cpp\\Cpp\\CoolWork2\\CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
               "RelativeToolTip": "CoolWork2\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435.cpp",
-              "ViewState": "AgIAAFUAAAAAAAAAAADwv2oAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-05T11:35:01.486Z",
               "EditorCaption": ""

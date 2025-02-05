@@ -1,2 +1,11 @@
 ﻿  HomeWork3.cpp
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(353,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(357,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(361,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(365,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(369,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(373,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(377,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(381,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\HomeWork3\HomeWork3.cpp(385,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   HomeWork3.vcxproj -> C:\Users\VENOEN\Documents\GitHub\Cpp\HomeWork3\x64\Debug\HomeWork3.exe
