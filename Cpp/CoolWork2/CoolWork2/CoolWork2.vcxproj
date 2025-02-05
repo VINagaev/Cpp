@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CoolWork2.cpp" />
-    <ClCompile Include="CoolWork3.cpp" />
-    <ClCompile Include="CoolWork3_1.cpp" />
-    <ClCompile Include="CoolWork4.cpp" />
-    <ClCompile Include="CoolWork5.cpp" />
+    <ClCompile Include="Работа в классе.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
