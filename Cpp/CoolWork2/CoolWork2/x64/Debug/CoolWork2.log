@@ -1,2 +1,4 @@
 ﻿  Работа в классе.cpp
+C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\CoolWork2\Работа в классе.cpp(414,22): warning C4244: инициализация: преобразование "float" в "short", возможна потеря данных
+C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\CoolWork2\Работа в классе.cpp(423,15): warning C4244: -=: преобразование "float" в "short", возможна потеря данных
   CoolWork2.vcxproj -> C:\Users\РПО\Documents\GitHub\Cpp\Cpp\CoolWork2\x64\Debug\CoolWork2.exe
